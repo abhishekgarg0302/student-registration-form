@@ -206,3 +206,6 @@ input[type="text"],input[type="email"],input[type="url"]{
 input[type="text"]::placeholder,input[type="email"]::placeholder,input[type="url"]::placeholder{
   color:rgba(255,255,255,0.7) ;
 } 
+.wrapper{
+  background-color:none !important;
+}
